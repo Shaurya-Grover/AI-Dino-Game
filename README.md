@@ -1,6 +1,6 @@
 <h1 align="center" id="title">AI Dino Game</h1>
 
-<p id="description">This is an AI Dinosaur Game populary played in the chrome browser I have implied computer vision algoithm like contour detection using Opencv unlike other projects where they mess with the JS of the game and the dino bypasses the obstacles this is very different from them</p>
+<p id="description">This is an AI Dinosaur Game populary played in the chrome browser I have implied computer vision algoithm like contour detection using Opencv unlike other projects where they mess with the JS of the game and the dino bypasses the obstacles this is very different from them, you can also view the project demo from the repo which contains the video name "game.avi"</p>
 
 <h2>🚀 Demo</h2>
 
